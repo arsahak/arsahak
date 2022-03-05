@@ -1,4 +1,3 @@
-![I am a Python/Django Full Stack Developer](https://pbs.twimg.com/profile_banners/983282637052657664/1646492839/600x200)
 
 ### Hi there 👋, I am Sahak
 #### I am a Python/Django Full Stack Developer
