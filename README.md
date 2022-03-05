@@ -1,6 +1,8 @@
 ![I am a Python/Django Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQFyjU-QFV73LA/profile-displaybackgroundimage-shrink_200_800/0/1646493840195?e=1651708800&v=beta&t=PryoXrykKsLZpc6J8e4w2JO3NN5pqqapSUA3QafUJMc)
+
 ### Hi there 👋, I am Sahak
-#### I am a Python/Django Full Stack Develope
+#### I am a Python/Django Full Stack Developer
+
 
 Hello! This is Sahak, a Professional and Experienced Full-Stack Web Designer and Developer. I have a passion for developing responsive and modern websites with HTML5, CSS3, Bootstrap4, JavaScript(ES6), Material UI, Responsive Design, Django rest framework, RESTful APIs, PostgreSQL, Python, Django, MySQL, etc
 
