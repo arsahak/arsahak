@@ -1,8 +1,5 @@
-<div align="center">
-<img src="https://en.bloggif.com/tmp/b207cf871ac2c78c0dbfd1088cd4a184/text.gif?1647702435" align="center" style="width: 100%" />
-</div>  
   
-
+ 
 ### <div align="center">I'm Sahak, a full-time Python/Django full-stack freelance developer 👨‍💻 working remotely since 2020 🚀 I am CSE student graduate from Jiangsu University of Science and Technology, Jaingsu, China. I love Coding❤️ Coding is my Passion.</div>  
   
 
