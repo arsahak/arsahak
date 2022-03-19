@@ -1,6 +1,5 @@
 
 ### Hi there 👋, I am Sahak
-#### I am a Python/Django Full Stack Developer
 
 Hello! This is Sahak, a Professional and Experienced Full-Stack Web Designer and Developer. I have a passion for developing responsive and modern websites with HTML5, CSS3, Bootstrap4, JavaScript(ES6), Material UI, Responsive Design, Django rest framework, RESTful APIs, PostgreSQL, Python, Django, MySQL, etc
 
