@@ -21,23 +21,23 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JQury](https://img.shields.io/badge/-JQury-05122A?style=flat&logo=node.js)&nbsp;
+![JQury](https://img.shields.io/badge/-JQury-05122A?style=flat&logo=jqury)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=flask)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=markdown)\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=rstudio)&nbsp;
-![Beautiful Soup4](https://img.shields.io/badge/-Beautiful Soup4-05122A?style=flat&logo=R&logoColor=276DC3)\
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=react)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+![WebScraping](https://img.shields.io/badge/-WebScraping-05122A?style=flat&logo=R&logoColor=276DC3)\
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe Xd](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Adobe Xd](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-xd)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
