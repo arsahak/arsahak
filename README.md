@@ -37,7 +37,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe Xd](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-xd)
+![Adobe Xd](https://img.shields.io/badge/-Adobe Xd-05122A?style=flat&logo=adobe-xd)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
