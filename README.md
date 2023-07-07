@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70933&background=27649F00&width=435&lines=Hey!+It's+Sahak+!+I'm+a+full+stack+developer.+I'm+working+with+React+js+Next+js+JavaScript+TypeScript+Python+Django+GraphQL+REST+API+Etc.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3880F7&width=435&lines=Hey!+It's+Sahak+!+I'm+a+full+stack+developer.+I'm+working+with+React+js+Next+js+JavaScript+TypeScript+Python+Django+GraphQL+REST+API+Etc.+)](https://git.io/typing-svg)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sahak -->
 
