@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [arsahak.com/portfolio](arsahak.com/portfolio)
 
-- 💬 Ask me about **full-stack**
-
 - 📫 How to reach me **arsahakbd@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
