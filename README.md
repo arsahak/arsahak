@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm AR Sahak</h1>
 <h3 align="center">A passionate full-Stack developer from Bangladesh</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codiing" width="400" align="right" >
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 - 🔭 I’m currently working at **It Bangla Ltd as a Software Engineer**
