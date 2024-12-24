@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm AR Sahak</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<p align="left">
+</p
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a CSE graduate from Jiangsu University of Science and Technology, Jiangsu, China.\
-🌱 &nbsp;I'm on track for learning more about Ai and Machine Learning.\
+🎓 &nbsp;I'm CSE student graduate from Jiangsu University of Science and Technology, Jiangsu, China.\
+🌱 &nbsp;I'm on track for learning more about AI and Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at arsahakbd@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.arsahak.com/assets/arsahak-resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
----
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # 💻 Tech Stack:
 <div align="left">
@@ -40,3 +41,5 @@
 <a href="https://www.pinterest.ca/ar_sahak"><img src="https://img.shields.io/badge/-@ar_sahak-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/ar_sahak"><img src="https://img.shields.io/badge/-@arsahak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+ re generate this code best way show my skill and expreince 
