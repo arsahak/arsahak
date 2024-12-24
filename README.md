@@ -41,5 +41,3 @@
 <a href="https://www.pinterest.ca/ar_sahak"><img src="https://img.shields.io/badge/-@ar_sahak-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/ar_sahak"><img src="https://img.shields.io/badge/-@arsahak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-
- re generate this code best way show my skill and expreince 
