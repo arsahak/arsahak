@@ -11,12 +11,12 @@
 
 ### 🚀 Professional Summary
 
-- 🎓 Computer Science Graduate from Jiangsu University of Science and Technology, China
-- 💻 3+ years of experience in full-stack development
-- 🔭 Currently working on AI-powered web applications
-- 🌱 Deep diving into Machine Learning and Blockchain technologies
-- 💡 Passionate about creating efficient, scalable, and maintainable solutions
-- ✨ Open to collaborating on innovative projects
+🎓 Computer Science Graduate from Jiangsu University of Science and Technology, China
+💻 4+ years of experience in full-stack development
+🔭 Currently working on AI-powered web applications
+🌱 Deep diving into Machine Learning and Blockchain technologies
+💡 Passionate about creating efficient, scalable, and maintainable solutions
+✨ Open to collaborating on innovative projects
 
 ---
 
