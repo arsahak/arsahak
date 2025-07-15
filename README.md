@@ -14,15 +14,9 @@
 
 <style>
 @keyframes gradientAnimation {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
 }
 </style>
 
@@ -30,45 +24,43 @@
 
 - 🎓 Graduated in **CSE** from Jiangsu University of Science and Technology, China  
 - 💡 Passionate about building scalable web apps and exploring new tech  
-- 🤖 Diving deep into **AI, Machine Learning, and Web3** technologies  
+- 🤖 Exploring **AI, Machine Learning, and Web3**  
 - ✨ Always eager to learn and create innovative solutions  
 
 ---
 
 ### 💻 My Skills
 
-<table width="100%" style="table-layout: fixed;">
-
+<table width="100%" style="table-layout: fixed; margin-top: 10px;">
   <tr>
-    <td bgcolor="#FF6F61" width="25%" valign="top" align="center" style="padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
+    <td bgcolor="#4A90E2" width="50%" valign="top" align="center" style="padding: 20px; border-radius: 12px; color: white; font-weight: bold; font-size: 16px;">
       <h3>Frontend & UI</h3>
       React.js, Next.js<br/>
       Tailwind CSS, Material UI, Next UI<br/>
       Bootstrap, SASS<br/>
       TypeScript, JavaScript
     </td>
-
-    <td bgcolor="#6B5B95" width="25%" valign="top" align="center" style="padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
+    <td bgcolor="#50E3C2" width="50%" valign="top" align="center" style="padding: 20px; border-radius: 12px; color: white; font-weight: bold; font-size: 16px;">
       <h3>Backend & Databases</h3>
       Node.js, NestJS, Express.js<br/>
       Django, Python<br/>
       MongoDB, MySQL, PostgreSQL<br/>
       Prisma ORM
     </td>
-
-    <td bgcolor="#88B04B" width="25%" valign="top" align="center" style="padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
+  </tr>
+  <tr style="height: 20px;"></tr> <!-- spacer row -->
+  <tr>
+    <td bgcolor="#F5A623" width="50%" valign="top" align="center" style="padding: 20px; border-radius: 12px; color: white; font-weight: bold; font-size: 16px;">
       <h3>State & APIs</h3>
       Redux, Redux Toolkit, Zustand<br/>
       NextAuth.js<br/>
       REST API, GraphQL, WebSockets
     </td>
-
-    <td bgcolor="#FFA500" width="25%" valign="top" align="center" style="padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
+    <td bgcolor="#D0021B" width="50%" valign="top" align="center" style="padding: 20px; border-radius: 12px; color: white; font-weight: bold; font-size: 16px;">
       <h3>Tools & DevOps</h3>
       Git, GitHub<br/>
       Docker, Postman<br/>
       Serverless Architecture
     </td>
   </tr>
-
 </table>
