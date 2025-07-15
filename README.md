@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Web3+%26+Blockchain+Developer;AI+Integration+Expert;Serverless+Microservices+Specialist" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div style="display: flex; gap: 30px; align-items: flex-start;">
-  <div style="flex: 1;">
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);margin-top:-50px;"/>
 
 ### 🚀 Core Competencies
 
@@ -65,13 +62,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
 </div>
 
-</div>
-
-  </div>
-
-  <div style="width: 320px;">
-    <img src="https://raw.githubusercontent.com/arsahak/arsahak/main/assets/coding-animation.gif" width="100%" style="border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.1);"/>
-  </div>
 </div>
 
 ---
