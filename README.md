@@ -1,147 +1,88 @@
 <h1 align="center">Hi 👋, I'm AR Sahak</h1>
-<h3 align="center">Senior Full-Stack Engineer | Web3 Developer | AI Solutions Architect</h3>
+<h3 align="center">Senior Full-Stack Engineer | Web3 & AI Specialist | Cloud Architect</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions;Web3+and+Blockchain+Enthusiast;AI+Integration+Specialist;Enterprise-grade+Application+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Web3+%26+Blockchain+Developer;AI+Integration+Expert;Serverless+Microservices+Specialist" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/arsahak/arsahak/main/assets/coding.gif" width="320" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+<div style="display: flex; gap: 30px; align-items: flex-start;">
+  <div style="flex: 1;">
 
-### 🚀 Professional Profile
+### 🚀 Core Competencies
 
-- 🎓 Computer Science Graduate from Jiangsu University of Science and Technology, China
-- 💻 4+ years experience in full-stack development
-- 🔭 Currently architecting AI-integrated Web3 applications
-- 🌱 Deep diving into Solidity, TensorFlow, and Cloud Architecture
-- 🏆 Recognized for building high-performance, scalable systems
-- 💡 Passionate about blockchain technology and decentralized applications
+- **Full-Stack Development**: End-to-end system architecture and implementation
+- **Web3 Ecosystem**: Smart contracts, dApps, and blockchain integration
+- **AI Engineering**: Machine learning model deployment and API integration
+- **Cloud-Native**: Serverless applications and microservices architecture
+- **Performance Optimization**: High-throughput system design
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Technical Arsenal
+
+<div style="background: #f8f9fa; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+
+#### **Full-Stack Development**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" alt="Express">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat" alt="GraphQL">
+</div>
+
+#### **Web3 & Blockchain**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat" alt="Solidity">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat" alt="Ethereum">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white&style=flat" alt="Web3.js">
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black&style=flat" alt="Hardhat">
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white&style=flat" alt="IPFS">
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white&style=flat" alt="MetaMask">
+</div>
+
+#### **Cloud & Serverless**
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat" alt="Serverless">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat" alt="Lambda">
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazon-api-gateway&logoColor=white&style=flat" alt="API Gateway">
+</div>
+
+#### **AI & Machine Learning**
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LangChain-00A67D?style=flat" alt="LangChain">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
+</div>
+
+</div>
+
+  </div>
+
+  <div style="width: 320px;">
+    <img src="https://raw.githubusercontent.com/arsahak/arsahak/main/assets/coding-animation.gif" width="100%" style="border-radius:12px; box-shadow:0 8px 16px rgba(0,0,0,0.1);"/>
+  </div>
+</div>
+
+---
+
+### 📊 Development Activity
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 25px;">
 
-#### **Frontend Mastery** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-</div>
-
-#### **Backend Systems** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-</div>
-
-#### **Web3 & Blockchain** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-
-</div>
-
-#### **AI & Data Science** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-00A67D?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
-#### **DevOps & Cloud** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-#### **Databases** <div style="height: 12px;"></div>
-<div style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 20px; border-radius: 10px; height: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-</div>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px;">
-
-<div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 165px;">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsahak&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
-
-</div>
-
-<div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 165px;">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsahak&layout=compact&theme=default&hide_border=true&langs_count=8)
-
-</div>
-
-<div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 165px;">
-  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arsahak&theme=default&hide_border=true)
-
-</div>
-
-<div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); height: 165px;">
-  
-![Trophy Case](https://github-profile-trophy.vercel.app/?username=arsahak&margin-w=8&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
-</div>
-
----
-
-### 🤝 Professional Connect
-
-<div align="center" style="margin-top: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/arsahak)
-[![Twitter](https://img.shields.io/badge/-Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&width=150)](https://twitter.com/arsahak)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&width=150)](https://arsahak.dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&width=150)](mailto:contact@arsahak.dev)
-[![Calendly](https://img.shields.io/badge/-Schedule-006BFF?style=for-the-badge&logo=calendly&logoColor=white&width=150)](https://calendly.com/arsahak)
-
-</div>
+```text
+📦 Full-Stack Projects    ████████████████████ 100% 
+🌐 Web3 Development       ███████████████████▌ 95%
+☁️ Cloud Architecture     ██████████████████▉ 90%
+🧠 AI Integration         ████████████████▊ 85%
+⚡ Performance Opt        ████████████████▌ 80%
