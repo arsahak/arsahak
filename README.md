@@ -1,78 +1,79 @@
-<h1 align="center">Hi 👋, I'm AR Sahak</h1>
-<h3 align="center">Senior Full-Stack Engineer | Web3 & AI Specialist | Cloud Architect</h3>
+<h1 align="center">Hi, I'm AR Sahak</h1>
+<h3 align="center">Full Stack Developer | SaaS, Web3, AI, and Cloud Systems</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Systems+Architect;Web3+%26+Blockchain+Developer;AI+Integration+Expert;Serverless+Microservices+Specialist" alt="Typing SVG" />
-</div>
-
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);margin-top:-50px;"/>
-
-### 🚀 Core Competencies
-
-- **Full-Stack Development**: End-to-end system architecture and implementation
-- **Web3 Ecosystem**: Smart contracts, dApps, and blockchain integration
-- **AI Engineering**: Machine learning model deployment and API integration
-- **Cloud-Native**: Serverless applications and microservices architecture
-- **Performance Optimization**: High-throughput system design
+<p align="center">
+  <a href="https://arsahak.info">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/arsahak">LinkedIn</a> -
+  <a href="https://github.com/arsahak">GitHub</a> -
+  <a href="https://leetcode.com/arsahak">LeetCode</a> -
+  <a href="mailto:arsahakbd@gmail.com">Email</a>
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### About Me
 
-<div style="background: #f8f9fa; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+I'm a Full Stack Developer with 4+ years of experience building production-grade SaaS platforms, Web3/DApp solutions, and AI-powered products. I work across React, Next.js, Node.js, Python, and FastAPI, with a strong focus on scalable architecture, clean APIs, and reliable deployment workflows.
 
-#### **Full-Stack Development**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" alt="NestJS">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" alt="Express">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat" alt="GraphQL">
-</div>
-
-#### **Web3 & Blockchain**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat" alt="Solidity">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white&style=flat" alt="Web3.js">
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?logo=hardhat&logoColor=black&style=flat" alt="Hardhat">
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white&style=flat" alt="IPFS">
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white&style=flat" alt="MetaMask">
-</div>
-
-#### **Cloud & Serverless**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS">
-  <img src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat" alt="Serverless">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat" alt="Lambda">
-  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazon-api-gateway&logoColor=white&style=flat" alt="API Gateway">
-</div>
-
-#### **AI & Machine Learning**
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangChain-00A67D?style=flat" alt="LangChain">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
-</div>
-
-</div>
+Currently, I work as a Software Engineer at Bayshore Communication in Dhaka, where I lead full-stack delivery for SaaS, Web3, and AI-driven products. I design REST and GraphQL APIs, build React/Next.js frontends, work with PostgreSQL, MongoDB, and Redis, and deploy systems on AWS, DigitalOcean, and Vercel.
 
 ---
 
-### 📊 Development Activity
+### What I Do
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 25px;">
+- Build full-stack web applications with React, Next.js, Node.js, FastAPI, and Django
+- Design REST and GraphQL APIs for scalable products and microservices
+- Develop AI and LLM-powered backends using RAG, LangChain, LangGraph, and vector databases
+- Work on Web3/DApp interfaces using ethers.js, wagmi, and RainbowKit
+- Deploy and maintain cloud infrastructure with AWS, DigitalOcean, Docker, Nginx, and CI/CD pipelines
+- Improve performance, code quality, testing, security, and developer workflow
 
-```text
-📦 Full-Stack Projects    ████████████████████ 100% 
-🌐 Web3 Development       ███████████████████▌ 95%
-☁️ Cloud Architecture     ██████████████████▉ 90%
-🧠 AI Integration         ████████████████▊ 85%
-⚡ Performance Opt        ████████████████▌ 80%
+---
+
+### Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, C++, Java
+
+**Frontend:** React.js, Next.js, React Native, Tailwind CSS, Redux Toolkit, Zustand, TanStack Query, Shadcn/UI, Material UI, Ant Design, Framer Motion
+
+**Backend:** Node.js, FastAPI, Django, REST, GraphQL, JWT, OAuth 2.0, Pydantic, SQLAlchemy, Celery
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+**AI/ML:** LLMs, RAG, LangChain, LangGraph, Vector DBs, PyTorch, TensorFlow, Scikit-learn, Hugging Face, Pandas, NumPy
+
+**Web3:** ethers.js, wagmi, RainbowKit
+
+**Cloud & DevOps:** AWS, DigitalOcean, Vercel, Docker, Kubernetes, Helm, Nginx, GitHub Actions, Terraform, Cloudflare, Prometheus, Grafana
+
+**Testing:** Jest, Cypress, Playwright
+
+---
+
+### Current Focus
+
+- Architecting production SaaS and AI platforms with clean service boundaries
+- Building LLM-powered products with practical RAG workflows
+- Strengthening cloud deployment, observability, and CI/CD pipelines
+- Contributing to readable, maintainable, and secure full-stack systems
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsahak&show_icons=true&theme=default&hide_border=true" alt="AR Sahak GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsahak&layout=compact&theme=default&hide_border=true" alt="AR Sahak top languages" />
+</p>
+
+---
+
+### Connect
+
+I'm open to full-stack engineering, AI product, SaaS, Web3, and cloud-focused opportunities.
+
+<p>
+  <a href="https://arsahak.info">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/arsahak">LinkedIn</a> |
+  <a href="mailto:arsahakbd@gmail.com">arsahakbd@gmail.com</a>
+</p>
