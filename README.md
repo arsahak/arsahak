@@ -13,15 +13,22 @@
   <a href="mailto:arsahakbd@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img alt="Coding workspace animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260" />
-</p>
+<table>
+  <tr>
+    <td width="68%" valign="top">
 
 ### 🚀 About Me
 
 I'm a Full Stack Developer with 4+ years of experience building production-grade SaaS platforms, Web3/DApp solutions, and AI-powered products. I work across React, Next.js, Node.js, Python, and FastAPI, with a strong focus on scalable architecture, clean APIs, cloud deployment, and maintainable engineering.
 
 Currently, I work as a Software Engineer at **Bayshore Communication** in Dhaka, leading full-stack delivery for SaaS, Web3, and AI-driven products. I design REST/GraphQL APIs, build React/Next.js frontends, work with PostgreSQL, MongoDB, and Redis, and deploy systems on AWS, DigitalOcean, and Vercel.
+
+  </td>
+  <td width="32%" align="center" valign="middle">
+    <img alt="Coding workspace animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="240" />
+  </td>
+  </tr>
+</table>
 
 ---
 
