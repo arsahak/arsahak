@@ -13,7 +13,7 @@
   <a href="mailto:arsahakbd@gmail.com">Email</a>
 </p>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);margin-top:-20px;"/>
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="230" hspace="20" vspace="10" />
 
 ### 🚀 About Me
 
@@ -131,7 +131,7 @@ Currently, I work as a Software Engineer at **Bayshore Communication** in Dhaka,
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsahak&show_icons=true&theme=tokyonight&hide_border=true" alt="AR Sahak GitHub stats" />
