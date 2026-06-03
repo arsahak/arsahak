@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+SaaS+Developer;React+%26+Next.js+Engineer;Python+FastAPI+Backend+Developer;AI+%26+LLM+Product+Builder;Web3+%26+DApp+Interface+Developer;Cloud+%26+DevOps+Practitioner" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://arsahak.info">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/arsahak">LinkedIn</a> •
-  <a href="https://github.com/arsahak">GitHub</a> •
-  <a href="https://leetcode.com/arsahak">LeetCode</a> •
-  <a href="mailto:arsahakbd@gmail.com">Email</a>
-</p>
 
 <table>
   <tr>
