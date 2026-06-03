@@ -13,7 +13,9 @@
   <a href="mailto:arsahakbd@gmail.com">Email</a>
 </p>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="230" hspace="20" vspace="10" />
+<p align="center">
+  <img alt="Coding workspace animation" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="260" />
+</p>
 
 ### 🚀 About Me
 
