@@ -133,11 +133,24 @@ Currently, I work as a Software Engineer at **Bayshore Communication** in Dhaka,
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsahak&show_icons=true&theme=tokyonight&hide_border=true" alt="AR Sahak GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsahak&layout=compact&theme=tokyonight&hide_border=true" alt="AR Sahak top languages" />
+  <a href="https://github.com/arsahak?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/arsahak?tab=followers">
+    <img src="https://img.shields.io/github/followers/arsahak?style=for-the-badge&logo=github&label=Followers&color=0EA5E9" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/arsahak?tab=stars">
+    <img src="https://img.shields.io/github/stars/arsahak?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arsahak">
+    <img src="https://komarev.com/ghpvc/?username=arsahak&style=for-the-badge&color=38BDF8" alt="Profile views" />
+  </a>
 </p>
 
 ---
